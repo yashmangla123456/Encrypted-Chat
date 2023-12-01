@@ -1,0 +1,10 @@
+#input-text-fields{
+    display: flex;
+}
+#selcted-users{
+    background-image: linear-gradient(to bottom right,rgb(222, 222, 255),rgb(248, 248, 248));
+}
+#txt-msg{
+
+    background-image: linear-gradient(to bottom right,rgb(222, 222, 255),rgb(248, 248, 248));
+}
